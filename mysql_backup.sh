@@ -3,7 +3,7 @@
 # To backup Nysql databases file to /usr/data_backup dir and later pick up by your
 # script. You can skip few databases from backup too.
 # Need pbzip2 for running
-#Adding Telegram notify
+# Adding Telegram notify
 
 MySQL_USER="$USERNAME"           # USERNAME
 MySQL_PASS="$PASSWORD"           # PASSWORD
